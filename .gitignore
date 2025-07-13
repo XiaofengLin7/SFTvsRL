@@ -22,3 +22,5 @@ data/
 slurm_logs/
 
 output/
+
+SFTvsRL_Data/
